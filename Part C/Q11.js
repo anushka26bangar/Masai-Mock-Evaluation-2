@@ -16,4 +16,4 @@ return {
 let myWallet = createWallet();
 myWallet.addMoney(500);
 myWallet.addMoney(200);
-myWallet.checkBalance();  // should show 700
+myWallet.checkBalance(); 
